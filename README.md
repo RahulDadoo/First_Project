@@ -1,1 +1,1 @@
-https://rahuldadoo.github.io/First_Project/index.html
+https://rahuldadoo.github.io/First_Project/
